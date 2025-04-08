@@ -9,4 +9,4 @@
 
 ![Arandiba](https://github-readme-stats.vercel.app/api?username=AugustoArand&show_icons=true&theme=transparent)
 
-Engenheiro Mecânico formado, apaixonado por tecnologia, em processo de migração de carreira. Atualmente estudando Análise e Desenvolvimento de Sistemas.
+Estudante de Análise e Desenvolvimento de Sistemas, visando ser um futuro desenvolvedor Back End.
