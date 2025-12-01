@@ -12,5 +12,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoArand&layout=donut&theme=tokyonight" alt="TOP Linguagens" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustoArand&show_icons=true&theme=tokyonight" alt="Arandiba Stats" height="180em"/>
 </div>
