@@ -1,7 +1,7 @@
 
 ### Olá! Eu me chamo Augusto Arandiba
 
-#### Estudante de Análise e Desenvolvimento de Sistemas, atualmente Estagiando em Garantia de Qualidade.
+#### Estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como Devops Junior na Ciberian Tecnologia.
 
 
 [![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
